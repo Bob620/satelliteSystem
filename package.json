@@ -1,0 +1,12 @@
+{
+  "name": "satellitesystem",
+  "version": "0.0.1",
+  "description": "A basic satellite demo/thought experiment",
+  "main": "app.js",
+  "scripts": {
+  	"start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bob620",
+  "license": "ISC"
+}
